@@ -41,7 +41,7 @@ class CounterView extends GetView<CounterController> {
               onPressed:() {
                 controller.kurangSatu();
               },
-              child: Icon(Icons.remove),
+              child: Icon(Icons.remov),
               )
               ],
             )
